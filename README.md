@@ -4,6 +4,7 @@ Scalable video concat service on CPU
 
 #Scheme 
 
+![alt-text](docs/images/scheme.png)
 
 
 #app
